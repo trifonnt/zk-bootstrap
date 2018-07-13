@@ -12,3 +12,7 @@ Links
   * [Download](https://github.com/jumperchen/zk-bootstrap/releases)
   * [Blog](http://blog.zkoss.org/index.php/2013/09/03/zk-7-zk-components-x-bootstrap-3/)
   * [License](http://www.gnu.org/licenses/gpl.html)
+
+How to build
+------------
+./mvnw clean compile jar:jar package install
